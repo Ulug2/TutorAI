@@ -1,0 +1,8 @@
+Welcome to TutorAI! 🎉
+
+We’re thrilled to have you here. TutorAI is your personal learning assistant, designed to make education engaging and tailored to your needs. Here’s how to get started:
+
+	•	/start – start the bot
+	•	/menu – dive into your chosen subject. TutorAI will guide you step-by-step, adapting to your pace and preferences.
+
+With TutorAI, you have a dedicated companion to explain concepts, answer questions, and help you grow. Let’s start learning together and reach your goals
